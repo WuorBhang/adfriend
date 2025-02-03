@@ -28,13 +28,13 @@ Load Unpacked Extension (For Developers)
 
 ## How It Works
 
-Ad Detection : The extension scans web pages for common ad containers and dynamically loaded ads.
+**1. Ad Detection :** The extension scans web pages for common ad containers and dynamically loaded ads.
 
-Widget Replacement : Detected ad spaces are replaced with positive content widgets based on your preferences.
+**2. Widget Replacement :** Detected ad spaces are replaced with positive content widgets based on your preferences.
 
-Interactivity : Widgets are interactive and provide value, such as motivational messages, reminders, or productivity tips.
+**3. Interactivity :** Widgets are interactive and provide value, such as motivational messages, reminders, or productivity tips.
 
-Customization : Users can customize the type of widgets displayed via the settings panel.
+**4. Customization :** Users can customize the type of widgets displayed via the settings panel.
 
 ## To personalize your experience with AdFriend , follow these steps
 

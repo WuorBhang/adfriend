@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "AdFriend",
+    "version": "1.0",
+    "description": "Replace ads with positive content widgets.",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "icons": {
+      "48": "icon.png"
+    }
+  }
